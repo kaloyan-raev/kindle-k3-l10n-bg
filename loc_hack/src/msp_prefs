@@ -1,0 +1,13 @@
+gui.title.en=Найдите мины!
+board.config.0.label=Средний
+board.config.1.label=Легкий
+board.config.2.label=Сложный
+board.config.3.label=Продвинутый
+board.config.4.label=Безумный
+messages.m_key.en = 'M' - Отметить/разотметить мину
+messages.r_key.en = 'R' - Новая игра
+messages.g_key.en = 'G' - Запустить GoMoku
+messages.lost.en = Вы проиграли!
+messages.won.en = Вы выиграли!
+messages.mines_left.en = мин осталось.
+messages.error.already_lost.en = Вы лузер! Нажмите 'R' для перезапуска.

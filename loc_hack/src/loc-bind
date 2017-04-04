@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ -d /mnt/us/localization ]
+then
+   mount --bind /opt/amazon/ebook/booklet_loc /opt/amazon/ebook/booklet
+   mount --bind /opt/amazon/ebook/lib_loc /opt/amazon/ebook/lib
+   mount --bind /opt/amazon/ebook/img/ui_loc /opt/amazon/ebook/img/ui
+   mount --bind /opt/amazon/ebook/config_loc/msp_prefs /opt/amazon/ebook/config/msp_prefs
+fi

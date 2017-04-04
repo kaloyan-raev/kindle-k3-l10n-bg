@@ -1,0 +1,27 @@
+Showing All {0} Notes & Marks	Примечаний и пометок: {0}
+Showing {0} Note & Mark	В списке примечаний и пометок: {0}
+There are no Notes or Marks	Нет примечаний и пометок
+Showing {0} Bookmarks	В списке {0} закладок
+Showing {0} Bookmark	В списке {0} закладка
+There are no Bookmarks	Закладок пока нет
+Showing {0} Notes	В списке примечаний: {0}
+Showing {0} Note	В списке примечаний: {0}
+There are no Notes	Примечаний пока нет
+Showing {0} Highlights	В списке пометок: {0}
+Showing {0} Highlight	В списке пометок: {0}
+There are no Highlights	Пометок пока нет
+Showing {0} Popular Highlights	В списке популярных пометок: {0}
+Showing {0} Popular Highlight	В списке популярных пометок: {0}
+There are no Popular Highlights	Популярных пометок пока нет
+Showing {0} Subscribed Annotations	В списке аннотаций: {0}
+Showing {0} Subscribed Annotation	В списке аннотаций: {0}
+There are no Subscribed Annotations	Аннотаций пока нет
+All Notes and Marks	Все примечания и пометки
+Bookmarks	Закладки
+Notes	Примечания
+Highlights	Пометки
+By Location	По позиции
+By Most Popular	По популярности
+Location	позиции
+Most Popular	популярности
+{0,choice,0#Show|1#Sort by} {1}	{0,choice,0#Показать|1#Сортировка по} {1}

@@ -1,0 +1,10 @@
+Downloading Items	Загружаемые элементы
+close	закрыть
+download complete	загрузка завершена
+pending - {0}%	осталось  - {0}%
+downloading - {0}%	загружено - {0}%
+wireless connection required - {0}%	требуется хотя бы GPRS - {0}%
+insufficient space - {0}%	недостаточно места - {0}%
+Wi-Fi required - {0}%	требуется Wi-Fi - {0}%
+error	ошибка
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}

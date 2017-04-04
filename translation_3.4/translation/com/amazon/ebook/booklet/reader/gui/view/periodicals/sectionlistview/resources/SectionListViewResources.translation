@@ -1,0 +1,15 @@
+Sections & Articles  •  {0}	Содержание  •  {0}
+{0,choice,0#Article|0<Articles} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Статья|0<Статьи} {1} {0,choice,0#|0<- {2} }из {3}
+{0,choice,0#Section|0<Sections} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Раздел|0<Разделы} {1} {0,choice,0#|0<- {2} }из {3}
+Item {0} of {1}	Элемент {0} из {1}
+Displaying article {0,choice,0#headline|0<headlines} {1} {0,choice,0#|0<to {2} }of {3}	Показ заголовк{0,choice,0#а|0<ов} стат{0,choice,0#ьи|0<ей} {1} {0,choice,0#|0<по {2} }из {3}
+Displaying {0,choice,0#section|0<sections} {1} {0,choice,0#|0<to {2} }of {3}	Показ раздел{0,choice,0#а|0<ов} {1} {0,choice,0#|0<по {2} }из {3}
+Section {0} {1}Item {2} of {3}	Раздел {0} {1}Элемент {2} из {3}
+View Sections and Articles	Показать список
+prev	пред.
+next	след.
+previous sections	предыдущие разделы
+next sections	следующие разделы
+previous articles	предыдущие статьи
+next articles	следующие статьи
+View Articles List	Открыть список статей

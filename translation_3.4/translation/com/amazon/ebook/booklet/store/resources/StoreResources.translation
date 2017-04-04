@@ -1,0 +1,5 @@
+Begin typing to search	Начните набирать текст для поиска
+search store	искать в магазине
+Details for this ad are no longer available. Turn wireless on to receive the latest content.	Подробности рекламного предложения недоступны. Включите связь для загрузки.
+Details for this ad are no longer available.	Данное предложение более недоступно. 
+{0,choice,0#You have no pending orders for this special offer.|1#You already have a pending order for this special offer.|2#You already have {0,number,integer} pending orders for this special offer.}	{0,choice,0#У вас нет необработанных заказов.|1#Ваш заказ обрабатывается.|2#Ваши заказы ({0,number,integer}) обрабатываются.}

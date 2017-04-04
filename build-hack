@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd loc_hack/src
+./build-updates.sh

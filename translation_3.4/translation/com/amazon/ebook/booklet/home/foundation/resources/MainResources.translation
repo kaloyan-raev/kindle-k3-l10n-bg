@@ -1,0 +1,3 @@
+View Downloading Items	Загружаемые сейчас книги
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Всего элементов: {0,number,integer}|1#В списке {0,number,integer} элемент|2#Всего элементов: {0,number,integer}
+Home	Домой

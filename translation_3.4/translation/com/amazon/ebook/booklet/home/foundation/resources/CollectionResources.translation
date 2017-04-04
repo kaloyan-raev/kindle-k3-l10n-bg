@@ -1,0 +1,27 @@
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Книг в списке: {0,number,integer}|1#Книг в списке: {0,number,integer}|2#Книг в списке: {0,number,integer}
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Газет в списке: {0,number,integer}|1#Газет в списке: {0,number,integer}|2#Газет в списке: {0,number,integer}
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Документов в списке: {0,number,integer}|1#Документов в списке: {0,number,integer}|2#Документов в списке: {0,number,integer}
+All My Items	Все элементы
+Books	Книги
+Subscriptions	Подписки
+Personal Docs	Документы
+By Most Recent First	По дате чтения
+By Title	По названию
+By Author	По Автору
+Most Recent First	Дата чтения
+Title	Название
+Author	Автор
+Add/Remove Items	Добавить/Удалить
+Rename Collection	Переименовать коллекцию
+Delete Collection	Удалить коллекцию
+Create a New Collection	Создать коллекцию
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Эта коллекция будет удалена, но ее содержимое останется на устройстве. Продолжить?
+save	сохранить
+Enter Collection Name	Введите имя коллекции
+Edit Collection Name	Редактирование имени коллекции
+Collection Name Already Exists	Такая коллекция уже есть
+The collection name that you entered already exists. Please enter a different name.	Коллекция с таким именем уже есть, введите другое имя.
+{0} collection	коллекция {0}
+remove from collection	удалить из коллекции
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}

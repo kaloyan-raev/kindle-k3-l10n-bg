@@ -1,0 +1,12 @@
+Archived Items	Архив
+0#Showing {0,number,integer} Archived Items|1#Showing {0,number,integer} Archived Item|2#Showing {0,number,integer} Archived Items	0#Документов в архиве: {0,number,integer}|1#Документов в архиве: {0,number,integer}|2#Документов в архиве: {0,number,integer}
+By Title	По Названию
+By Author	По Автору
+Title	Название
+Author	Автор
+Your download was not successful. Please try again.	Не удалось загрузить. Попробуйте еще раз.
+"{0}" could not be downloaded due to insufficient Kindle memory. Please free up space by removing content from Home.	"{0}" не может быть загружено, не хватает места на Kindle. Пожалуйста, почистите диск Kindle.
+Wi-Fi Network Required	Требуется Wi-Fi подключение
+A Wi-Fi network connection is required to complete this task. Please connect to a Wi-Fi network.	Необходимо Wi-Fi подключение для завершения этой задачи. Пожалуйста, подключитесь к Wi-Fi.
+view all networks	показать доступные сети
+add to home	добавить на главную

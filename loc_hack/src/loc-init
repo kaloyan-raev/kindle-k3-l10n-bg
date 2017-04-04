@@ -1,0 +1,28 @@
+#!/bin/sh
+
+_FUNCTIONS=/etc/rc.d/functions
+[ -f ${_FUNCTIONS} ] && . ${_FUNCTIONS}
+
+RU_ENABLE_FUSE=/mnt/us/localization
+RU_BIND=/opt/amazon/loc-bind
+
+case "$1" in
+
+        start)
+                if [ -d ${RU_ENABLE_FUSE} -a -f ${RU_BIND} ]; then
+		        chmod +x ${RU_BIND}
+			${RU_BIND}
+                else
+                        msg "[/mnt/us/localization not found] Localization update is disabled" I
+                fi
+        ;;
+
+        stop)
+                ;;
+        *)
+                msg "Usage: $0 {start|stop}" W >&2
+                exit 1
+                ;;
+esac
+
+exit 0

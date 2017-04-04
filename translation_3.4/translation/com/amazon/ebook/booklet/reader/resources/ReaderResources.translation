@@ -1,0 +1,172 @@
+Add Bookmark	Добавить закладку
+Add Highlight...	Добавить пометку...
+Add Note	Добавить заметку
+Add Note or Highlight	Добавить примечание или пометку
+Already at furthest read location.	Вы уже находитесь на сохраненной позиции.
+Already at furthest red location.	Вы уже находитесь на сохраненной позиции.
+Annotation feature is not available at the moment.  Please try again later	Сейчас нельзя добавить аннотацию. Попробуйте позже.
+ASIN metadata is not present in the book.  Thus the feature is unavailable.	В книге нет матаданных ASIN, поэтому функция недоступна. 
+Book Description	Описание книги
+Book Info	Информация о книге
+Bookmark	Закладка
+Buy This Book Now	Купить эту книгу сейчас
+Clip Article	Вырезать статью
+Clipping	Вырезка 
+Clip This Article	Вырезать эту статью
+Close Index	Закрыть индекс
+Cover	Обложка
+Current page {0} of {1}	Текущая страница {0} из {1}
+Delete Bookmark	Удалить закладку
+Delete Highlight	Удалить выделение
+Delete Note	Удалить заметку
+Delete This Item	Удалить эту книгу
+Done	Выход
+Do Not Keep This Issue	Не хранить эту книгу
+Downloading	Загрузка
+Edit Note	Редктировать заметку
+Enter the password for this document.	Введите пароль для этого документа.
+go home	домой
+Go to Articles List	Перейти к списку статей
+Go to Beginning	Перейти к началу
+Go to Bookmark	Перейти на закладку
+Go to Bookmark...	Перейти на закладку
+Go to First Article	Перейти к первой статье
+Go to First Page	Открыть первую страницу
+Go to Front Page	Перейти на первую страницу
+go to last page	Перейти на последнюю страницу
+Go to Location...	Перейти к позиции
+Go to Page...	Открыть страницу...
+Go to Sections List	Перейти к разделам
+Hide Annotations	Скрыть комментарии
+Highlight	Пометка
+Home	Домой
+Index	Индекс
+It will automatically open when the download is complete.	Книга откроется, когда завершится загрузка.
+Keep This Issue	Сохранить это издание
+Keep This Item	Хранить эту книгу
+Location 	Позиция 
+Locations 	Позиция 
+Location {0}	Позиция {0}
+Loc. {0} 	Поз. {0} 
+Lookup	Поиск
+Move cursor to make selection, or press {0} to create a note	Меремещайте курсор для выбора или нажмите {0} для создания заметки
+My Bookmarks	Мои закладки
+My Clippings.txt	Мои вырезки.txt
+My Notes & Marks	Мои заметки
+No Dictionary Found	Словарь не найден
+No match found for "{0}".	Ничего не найдено для "{0}".
+No more matches found for "{0}".	Больше ничего не найдено для "{0}".
+Note	Заметка
+Now downloading the book...	Загрузка книги...
+ok	ОК
+on Pages {1}-{2}	на страницах {1}-{2}
+on Page {0}	на странице {0}
+on Page {1}	на странице {1}
+on Unnumbered Page	на неизвестной странице
+on {7}	{7}
+Opening... 	Открытие... 
+OTA Store not available at the moment.  Please try again later	Недоступно. Попробуйте позднее
+Page 	Страница 
+Pages 	Страницы 
+Page {0} 	Страница {0} 
+Page {0}-{1}	Страница {0}-{1}
+Password is invalid for this document.	Пароль не подходит.
+Place Cursor in Page	Показать курсор
+Please enter a search word.	Введите слова для поиска.
+Please enter the password:	Введите пароль:
+Portrait/Landscape	Портрет/Альбом
+Press Prev/Next Page keys to navigate between bookmarks.	Используйте "Пред/след страница" для перемещения по закладкам.
+Press {0} for full definition, highlight, or note	Нажмите {0} для перехода к словарю, создания замеки или выбора
+Press {0} for note or highlight	Нажмите {0} для создания замеки или выбора
+Press {0} to save highlight	Нажмите {0} для сохранения пометки
+Reflow Text/No Reflow	Переформатировать/Как есть
+Retrieving furthest page read...	Загрузка сохраненных позиций...
+Retrieving furthest page red...	Загрузка сохраненной позиции
+Sample {0}	Образец {0}
+Save Clipping	Сохранить вырезку
+Save Page as Clipping	Сохранить страницу как вырезку
+Search This Blog	Искать по блогу
+Search This Book	Искать в книге
+Search This Document	Искать в книге
+Search This Issue	Искать по изданию
+Search This Sample	Искать по образцу
+Section List	Список разделов
+Sections	Разделы
+See Details	Просмотреть детали
+Select range of text to highlight. Press select wheel when done.	Выделите часть текста. Нажмите [джойстик] для завершения.
+Show Annotations	Показать комментарии
+Show Info	Просмотреть информацию
+Some elements on this page could not be displayed.	Некоторые элементы на этой странице, не могут быть отображены.
+Sorry, you cannot change the size of text in the Section list.	Извините, но вы не можете изменять размер текста, при просмотре списка разделов.
+Syncing to Furthest Page Read...	Поиск последней позиции...
+Syncing to Furthest Page Red...	Поиск последней позиции...
+Sync to Furthest Page Read	Сохраненная позиция
+Sync to Furthest Page Red	Сохраненная позиция
+Table of Contents	Содержание
+The item you were reading has been removed and is no longer available on your Kindle.	Документ который Вы читаетали, был удален и больше не доступен на вашем Kindle.
+There is not enough Kindle memory to add, edit, or share notes or marks on this document. Please make more Kindle memory available by removing content from Home.	Недостаточно памяти для добавления, правки или публикации примечаний и заметок. Удалите часть содержимого с главной страницы.
+There is not enough Kindle memory to complete the search. Please make more Kindle memory available by removing content from Home.	Недостаточно памяти, чтобы завершить поиск. Пожалйста, почистите память устройства, удалив ненужные документы.
+There is not enough Kindle memory to open the selected item. Please make more Kindle memory available by removing content from Home.	Недостаточно памяти для открытия. Удалите часть содержимого с главной страницы.
+The selected item could not be opened because it is password protected.	Невозможно открыть документ, т.к. он защищен паролем.
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and download it from Archived Items.	Невозможно открыть эту книгу. Если вы ее купили в магазине Amazon, удалите ее с Kindle и скачайте снова.
+The selected item could not be opened. If you purchased this item from Amazon, delete the item and redownload it from Archived Items available in Home.	Невозможно открыть документ. Если вы его купили в магазине Amazon, то удалите его и скачайте снова.
+The selected item could not be opened. If you purchased this item from Amazon, you can try downloading the item again from Archived Items in Home. For additional help, please contact Kindle Customer Service at www.kindle.com/support.	Невозможно открыть документ. Если вы его купили в магазине Amazon, то удалите его и скачайте снова. За дополнительной информацией обращайтесь в поддержку: www.kindle.com/support
+The selected item could not be opened. The title is too large for available memory. Please contact Kindle Customer Service at www.kindle.com/support for help resolving this issue.	Вы не можете открыть этот документ, не хватает доступной памяти. За помощью в решении этой проблемы обращайтесь в поддержку: www.kindle.com/support
+This item cannot be opened because it is licensed to a different user. Delete the item and download it from your Archived Items or purchase a copy from the Kindle Store.	Вы не можете открыть этот документ, т.к. он лицензирован для другого пользователя. Удалите его и скачайте с сайта Amazon или купите его в магазине Amazon.
+<This item is copy protected>	<Копирование этой книги запрещено>
+This item is password protected.	Эта книга защищена паролем.
+<This item is password protected>	<Эта книга защищена паролем>
+This PDF cannot be opened due to embedded features not yet supported by Kindle.	Этот PDF не может быть открыт на Вашем Kindle, т.к. содержит неподдерживаемые элементы.
+This PDF is password protected and cannot be read on your Kindle.	Этот PDF защищен паролем и не может быть открыт на Вашем Kindle.
+This PDF is protected with DRM or encryption and cannot be read on your Kindle.	Этот PDF защищен авторскими правами (DRM) и не может быть открыт на Вашем Kindle.
+To continue reading, please wait until the rest of the book finishes downloading.	Для продолжения чтения книги, дождитесь загрузки очередной ее части.
+today	сегодня
+To sync to the furthest page read, Annotations Backup must be turned on. Go to Settings from the Home screen menu and turn on Annotations Backup, then try again.	Чтобы запоминать место, где Вы остановили чтение, разрешите сохранение аннотаций. Нажмите Home, Menu, и, зайдя в Настройки, включите эту опцию на 3 странице.
+Unable to retrieve the furthest location read. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.	Невозможно получить последнюю позицию. Если Вы впервые открыли эту книгу, то Ваша текущая позиция, будет сохранена в момент ее закрытия или перехода в спящий режим.
+Unable to retrieve the furthest location red. If this is the first time you opened this book, your device will update your location when you close the book or your device goes to sleep.	Невозможно получить последнюю позицию. Если Вы впервые открыли эту книгу, то Ваша текущая позиция, будет сохранена в момент ее закрытия или перехода в спящий режим.
+Unable to save clipping. You have reached the clipping limit for this item.	Вы превысили лимит вырезок для этого документа.
+Unable to save clipping. You have reached the clipping limit set by the publisher{0,choice,0#|1#, {1}}.	Невозможно. Количество вырезок ограничено издателем: {0,choice,0#|1#, {1}}.
+Use Next Page and Prev Page to pan table	"след. страница" и "пред. страница" - перемещение таблицы
+yesterday	вчера
+You are currently at location {0}, the furthest read location across all your devices is {1}. Go to that location?	Ваша текущая позиция {0}, на другом устройстве дочитано до {1}. Перейти?
+You are currently at location {0}. The furthest read location is {2}, from "{4}" at {5} {6}. Go to that location?	Ваша текущая позиция {0}, на "{4}" {5} в {6} дочитано до {2}. Перейти?
+You are currently at location {0}, the furthest red location across all your devices is {1}. Go to that location?	Ваша текущая позиция {0}, на другом устройстве дочитано до {1}. Перейти?
+You are currently at location {0}. The furthest red location is {2}, from "{4}" at {5} {6}. Go to that location?	Ваша текущая позиция {0}, на "{4}" {5} в {6} дочитано до {2}. Перейти?
+You are currently on an unnumbered page, {1,number,integer} percent into the book. The furthest red page is an unnumbered page, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} дочитано до {3,number,integer}%. Перейти?
+You are currently on an unnumbered page, {1,number,integer} percent into the book. The furthest red page is {2}, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} дочитано до страницы {2} ({3,number,integer}%). Перейти?
+You are currently on an unnumbered page, {1,number,integer} percent into the book. You have red further into this book, from "{4}" at {5} {6}. Go to the furthest place red?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} Вы прочитали дальше. Перейти?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} дочитано до {3,number,integer}%. Перейти?
+You are currently on an unnumbered page, {1,number,percent} into the book. The furthest read page is {2}, {3,number,percent} into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} дочитано до страницы {2} ({3,number,integer}%). Перейти?
+You are currently on an unnumbered page, {1,number,percent} into the book. You have read further into this book, from "{4}" at {5} {6}. Go to the furthest place read?	Номер страницы неизвестен, прочитано {1,number,integer}%, на "{4}" {5} в {6} Вы прочитали дальше. Перейти?
+You are currently on page {0}. The furthest read page is {2}, from "{4}" at {5} {6}. Go to that page?	Номер страницы {0}, на "{4}" {5} в {6} дочитано до {2}. Перейти?
+You are currently on page {0}. The furthest red page is {2}, from "{4}" at {5} {6}. Go to that page?	Номер страницы {0}, на "{4}" {5} в {6} дочитано до {2}. Перейти?
+You are currently on page {0}. You have read further on this page, from "{4}" at {5} {6}. Go to the furthest place read?	Номер страницы {0}, на "{4}" {5} в {6} Вы прочитали дальше. Перейти?
+You are currently on page {0}. You have red further on this page, from "{4}" at {5} {6}. Go to the furthest place red?	Номер страницы {0}, на "{4}" {5} в {6} Вы прочитали дальше. Перейти?
+You are currently on page {0}, {1,number,integer} percent into the book. The furthest red page is an unnumbered page, {3,number,integer} percent into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы {0}, прочитано {1,number,integer}%, на "{4}" {5} в {6} Вы прочитали до {3,number,integer}%. Перейти?
+You are currently on page {0}, {1,number,percent} into the book. The furthest read page is an unnumbered page, {3,number,percent} into the book, from "{4}" at {5} {6}. Go to that page?	Номер страницы {0}, прочитано {1,number,integer}%, на "{4}" {5} в {6} Вы прочитали до {3,number,integer}%. Перейти?
+<You have reached the clipping limit for this item>	<Вы достигли лимита вырезок для этого элемента>
+<You have reached the clipping limit set by the publisher>	<Вы достигли лимита вырезок, установленного издателем>
+<You have reached the clipping limit set by the publisher {0}>	<Вы достигли лимита вырезок, установленного издателем: {0}>
+Your Kindle has no dictionary for: {0}. To download a dictionary, press , click on Archived Items, and select a dictionary.	На Kindle нет словаря для: {0}. Чтобы скачать его, нажмите , Выберите Архив, и укажите нужный словарь.
+Your Kindle memory is full and the note or mark could not be saved. Please make more Kindle memory available by removing content from Home.	На Вашем kindle закончилась свободная память. Пожалуйста, удалите неиспользуемые книги на домашнем экране.
+Your search cannot be completed as this item has not yet been indexed. Please try again later.	Поиск невозможен, поскольку не завершена индексация. Попробуйте позже.
+You will not be able to add/share notes or marks to this item because you do not have enough SD memory card space available. Please make more SD memory card space available by removing items.	Недостаточно памяти для создания/сохранения заметок. Пожалуйста, удалите ненужные документы.
+Zooming...	Увеличение...
+{0}$$~~- Bookmark on {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Закладка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Bookmark {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Закладка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Clipping on {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Вырезка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Clipping {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Вырезка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Highlight on {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Пометка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Highlight {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Пометка {1} | Добавлена {2}$$~~$$~~{3}$$~~==========$$~~
+{0} Issue	Выпуск {0}
+{0}$$~~- Note on {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Примечание {1} | Добавлено {2}$$~~$$~~{3}$$~~==========$$~~
+{0}$$~~- Note {1} | Added on {2}$$~~$$~~{3}$$~~==========$$~~	{0}$$~~- Примечание {1} | Добавлено {2}$$~~$$~~{3}$$~~==========$$~~
+{0} ({1})$$~~- Bookmark on {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Закладка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Bookmark {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Закладка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Clipping on {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Вырезка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Clipping {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Вырезка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Highlight on {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Пометка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Highlight {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Пометка {2} | Добавлена {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Note on {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Примечание {2} | Добавлено {3}$$~~$$~~{4}$$~~==========$$~~
+{0} ({1})$$~~- Note {2} | Added on {3}$$~~$$~~{4}$$~~==========$$~~	{0} ({1})$$~~- Примечание {2} | Добавлено {3}$$~~$$~~{4}$$~~==========$$~~
+1#{0,number,integer} Article|2#{0,number,integer} Articles	1#{0,number,integer} статья|2#{0,number,integer} статей

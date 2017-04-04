@@ -1,0 +1,5 @@
+0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Добавить/удалить: 0|1#Добавить/удалить: 1|2#Добавить/удалить:  {0,number,integer}
+add to this collection	добавить в коллекцию
+remove from this collection	удалить из коллекции
+Done	Готово
+Add All Items on This Page	Добавить все с этой страницы

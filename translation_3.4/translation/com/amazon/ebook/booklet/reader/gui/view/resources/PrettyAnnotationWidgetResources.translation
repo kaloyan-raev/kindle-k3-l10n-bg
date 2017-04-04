@@ -1,0 +1,14 @@
+Your Bookmark	Ваша закладка
+Your Note	Ваше примечание
+Your Highlight	Ваша пометка
+Note	Примечание
+Highlight	Пометка
+{0}’s Note	Примечание - {0}
+{0}’s Highlight	Пометка - {0}
+Location {0}	Позиция {0}
+{0,number,integer} Highlighters	Пометивших: {0,number,integer}
+Page {0}	Страница {0}
+Unnumbered Page (Location {1})	Страница без номера (Позиция {1})
+Page {1}	Страница {1}
+Pages {1}–{2}	Страницы{1}–{2}
+Pages {1} to {2}	Страницы с {1} по {2}

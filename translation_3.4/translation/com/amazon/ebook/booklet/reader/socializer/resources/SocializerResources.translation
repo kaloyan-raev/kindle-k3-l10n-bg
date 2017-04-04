@@ -1,0 +1,35 @@
+Message shared	Сообщение опубликовано
+Social Networks Not Registered	Социальные сети не настроены
+You may not be registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue Reading' to return to this item. 	Возможно, Вы не зарегистрированы в социальных сетях. Выберите ниже "регистрировать"  чтобы открыть "Менеджер социальных сетей" где вы сможете ввести настройки. Затем выберите "Продолжить чтение", чтобы вернуться сюда.
+Your Kindle is not registered with any social networks. Selecting 'register' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your registration is complete, select 'Continue reading' to return to this item.	Ваш Kindle не зарегистрирован в социальных сетях. Выберите ниже "регистрировать"  чтобы открыть "Менеджер социальных сетей" где вы сможете их настроить. Затем выберите "Продолжить чтение", чтобы вернуться сюда.
+Invalid Social Networks	Неправильные социальные сети
+One or more of the social networks registered to your Kindle are not configured properly. Selecting 'manage accounts' below will open the "Manage Your Social Networks" web page so you can enter your account information. When your changes are complete, select 'Continue reading' to return to this item.	У вас неправильно настроены одна или несколько социальных сетей. Выберите ниже "управление" чтобы исправить ошибки. Когда завершите, выберите "Продолжить чтение" что бы вернуться сюда.
+Sharing unavailable. Try later	Публикация невозможна. Попробуйте позже
+The sharing service is currently unavailable. Please try again later.	В данный момент сервера Amazon недоступны. Попробуйте еще раз позже.
+Sharing Not Supported	Публикация не поддерживается
+This content does not support sharing.	Это содержимое нельзя опубликовать.
+Clipping Limit Reached	Достигнут предел вырезок
+Unable to share. You have reached the clipping limit for this item.	Невозможно опубликовать. Вы достигли предела количества вырезок для этой книги.
+Password Protected PDF File	Этот PDF защищен паролем
+Unable to share. This is a password protected PDF file.	Невозможно расшарить. Этот PDF документ защищен паролем.
+Unable to share. You have reached the clipping limit for this item set by the publisher.	Невозможно. Вы достигли предела публикаций, установленного издателем.
+Unable to share. You have reached the clipping limit for this item set by the publisher, {0}.	Невозможно. Вы достигли предела публикаций, установленного издателем: {0}.
+Communication error. Try later	Ошибка связи, попробуйте позже.
+The sharing service encountered a communication error. Please try again later.	Сервера Amazon недоступны, попробуйте позже.
+Sharing Failed	Ошибка публикации
+The sharing service encountered an unrecoverable error. Sharing aborted.	Ошибка в процессе публикации. Операция отменена.
+Empty Message	Не введен текст сообщения
+You cannot share an empty message or a message containing only whitespace.	Нельзя отправить сообщение без текста или из одних пробелов.
+Wireless unavailable. Try later	Нет связи.
+Wireless connectivity is currently unavailable. Please try again later.	В данный момент беспроводная связь недоступна. Попробуйте еще раз.
+{0,choice,1#Your message is too long to share. Please remove one character.|2#Your message is too long to share. Please remove {0} characters.}	Сообщение слишком длинное. {0,choice,1#Удалите один символ.|2#Лишних символов: {0}.}
+Continue reading	Продолжить чтение
+register	регистрировать
+manage accounts	управление 
+cancel	отмена
+close	закрыть
+share	расшарить
+Enter Your Message	Введите ваше сообщение
+A link to the book will be appended to your message.	К сообщению будет добавлена ссылка на книгу.
+A link to your highlight will be appended to your message.	Ссылка на вашу пометку будет добавлена к сообщению.
+{0,choice,-2#{1} characters over |-1#{1} character over | 0#{1} characters left | 1#{1} character left | 2#{1} characters left}	{0,choice,-2#Лишних символов {1} |-1#Лишних символов {1} | 0#Осталось символов: {1}| 1#Осталось символов: {1}| 2#Осталось символов: {1}}

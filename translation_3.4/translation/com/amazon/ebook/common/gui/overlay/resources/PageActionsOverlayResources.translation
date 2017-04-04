@@ -1,0 +1,37 @@
+Text-to-Speech	Проговаривание
+turn on	включить
+turn off	выключить
+play	пуск
+pause	пауза
+Speech Rate	Темп
+slower	медленее
+default	по умолчанию
+faster	быстрее
+Speaking Voice	Голос
+female	женский
+male	мужской
+Typeface	Шрифт
+regular	обычный
+condensed	сжатый
+sans serif	без засечек
+Line Spacing	Межстрочное рас.
+small	маленькое
+medium	среднее
+large	большое
+Contrast	Контраст
+lightest	-2
+lighter	-1
+darker	+1
+darkest	+2
+Words per Line	Слов в строке
+fewest	мало
+fewer	меньше
+Auto-Crop	Автоообрезание
+Justification	Выравнивание
+Left	Слева
+Full	По ширине
+Zoom	Увеличение
+actual size	исходный
+fit-to-page	на страницу
+fit-to-width	по ширине
+fit-to-screen	на экран

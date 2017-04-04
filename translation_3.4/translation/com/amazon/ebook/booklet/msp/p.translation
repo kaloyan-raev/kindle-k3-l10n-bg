@@ -1,0 +1,9 @@
+Press N to start a new game, S to swap positions,	Клавиша N - Новая игра, S - поменять позиции
+M to go back to the Mine Sweeper.	M - вернуться к "Саперу"
+The winner is the first player to get an unbroken	Победитель тот, кто первым соберет линию
+row of five crosses or zeros horizontally, vertically,	из 5 крестиков или ноликов по горизонтали,
+or diagonally.	вертикали или диагонали.
+YOU WON!	Вы выиграли!
+YOU LOST!	Вы проиграли!
+Score: You (	Очки: Вы (
+, Kindle (	, Kindle (

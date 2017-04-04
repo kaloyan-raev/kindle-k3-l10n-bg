@@ -1,0 +1,121 @@
+Settings	Настройки
+Version: {0}	Версия: {0}
+Page {0,number,integer} of {1,number,integer}	Страница {0,number,integer} из {1,number,integer}
+The following pages contain settings to personalize your Kindle experience. Press the Next and Previous page buttons to see all the settings.	Используйте кнопки < и > чтобы листать список настроек (не все доступны без регистрации!)~~Основной перевод: Sir Alex (http://goo.gl/HucCF)~~Правка под прошивку v3.4: DanZer, 28.11.2013
+This page contains settings to personalize your Kindle experience.	Эта страница содержит персональные настройки вашего Kindle.
+Wi-Fi Settings	Настройки Wi-Fi
+not connected	нет подключения
+Join a Wi-Fi network to buy books and use other Kindle features.	Подключитесь к сети Wi-Fi, для доступа к покупке книг и прочим возможностям Kindle.
+Available Wi-Fi Networks ({0})~~Network: {1}	Доступно Wi-Fi сетей ({0})~~: {1}
+Available Wi-Fi Networks ({0,number,integer})~~Network: {1}	Доступно Wi-Fi сетей ({0,number,integer})~~Сеть: {1}
+Registration	Регистрация
+This device and any content purchased in the Kindle Store are registered to the Amazon user shown below.	Это устройство и любое содержимое купленное на Amazon, зарегистрировано на имя указанное ниже.
+not registered	не зарегистрирован
+register	начать
+deregister	сбросить
+Registered on {0}	Зарегистрирован на {0}
+Registered User: {0}	Зарегистрирован на: {0}
+Registered User: 	Зарегистрирован на: 
+Device Info	Информация об устройстве
+Wi-Fi MAC Address: {0}	MAC-адрес Wi-Fi: {0}
+Serial Number: {0}	Серийный номер: {0}
+Network Capability: {0}	Можно подключить к: {0}
+System Tag: {0}	Метка устройства: {0}
+Policy ID: {0}	Набор правил: {0}
+Unavailable	Недоступен
+Wi-Fi	Wi-Fi
+3G	3G
+Wi-Fi and 3G	Wi-Fi и 3G
+Device Name	Имя устройства
+Personalize your Kindle by giving it a name that appears on the Home page.	Сделайте свой Kindle уникальным, дайте ему имя!
+Name: {0}	Имя: {0}
+Device Time	Время
+Set the time on your Kindle.	Настройте часы в Kindle.
+set manually	вручную
+set automatically	автоматически
+Device Password	Парольная защита
+Restrict access to your Kindle by creating a password.	Вы можете ограничить доступ к Вашему Kindle установив пароль.
+On	Вкл
+Off	Выкл
+turn on	включить
+turn off	отключить
+Password hint: {0}	Подсказка пароля: {0}
+Popular Highlights	Популярные отрывки
+Display the passages that are most frequently highlighted by other Kindle users.	Отображать отрывки, которые наиболее часто выделяются другими пользователями.
+Show	Показать
+Hide	Скрыть
+show	показывать
+hide	скрыть
+Public Notes	Публичные заметки
+Show highlights and notes from other people that you follow on kindle.amazon.com.	Показывать заметки других пользователей, за которыми вы следите на сайте kindle.amazon.com
+Show highlights and notes from other people that you follow on {0}.	Показывать заметки других пользователей, за которыми вы следите на {0}
+Voice Guide	Голосовые подсказки
+Navigate your Kindle with spoken menus, selectable items, and descriptions.	Kindle может проговаривать меню, примечания и другие элементы управления.
+Send-to-Kindle E-mail	E-mail для отправки на Kindle
+You can send documents to your Kindle by using the e-mail address below. Go to {0} to change your settings.	Вы можете отправлять документы на Kindle через этот e-mail. Чтобы изменить настройки, перейдите на {0}
+You can send documents to your Kindle by using the e-mail address below. To change your settings, go to: www.amazon.com/myk. For UK customers, go to: www.amazon.co.uk/myk.	Вы можете отправлять документы на Kindle через этот e-mail. Чтобы изменить настройки, перейдите на www.amazon.com/myk или www.amazon.co.uk/myk для европейских Kindle.
+Personal Info	Персональные данные
+- no personal info -	- персональных данных нет -
+manage	управление
+Social Networks	Социальные сети
+Share notes and highlights with friends using your social network accounts (like Twitter or Facebook).	Поделитесь с друзьями своими аннотациями через социальные сети (такие как Twitter или Facebook).
+Annotations Backup	Сохранение аннотаций
+Automatically backup your device annotations, last page read, last position heard, and collections at Amazon.	Автоматически сохранять аннотации, позиции чтения и прослушивания, а также коллекции на сервере Amazon.
+Automatically backup your device annotations, last page read, last position heard, and collections at Amazon. Annotations not previously backed up may be lost.	Автоматически сохранять аннотации, позиции чтения и прослушивания, а также коллекции на сервере Amazon. Не сохраненная информация может быть утеряна.
+Update Your Kindle	Обновление Kindle
+Change Primary Dictionary	Выбрать основной словарь
+Enable Annotations Backup	Включить сохранение аннотаций
+Disable Annotations Backup	Выключить сохранение аннотаций
+Voice Guide: Turn on/off	Голосовые подсказки: Вкл/Выкл
+Turn off Accessible Mode	Выключить режим доступности
+Enable Popular Highlights	Вкл. популярные аннотации
+Disable Popular Highlights	Выкл. популярные аннотации
+Restart	Перезапуск Kindle
+Legal	Авторские права
+There was an error while deregistering your device. Please try again later.	Ошибка при разрегистрации. Попробуйте позже.
+About Kindle	О Kindle
+{0} of {1}	{0} из {1}
+Page {0} of {1}	Страница {0} из {1}
+{0}, Page {1,number,integer} of {2,number,integer}, {3}	{0}, Страница {1,number,integer} из {2,number,integer}, {3}
+Enter Password: 	Введите пароль: 
+Confirm Password: 	Повторите пароль: 
+Set Password	Установить пароль
+Edit Password	Изменить пароль
+Passwords did not match. Please try again.	Пароли не совпадают, попробуйте еще раз.
+Incorrect password. Please try again.	Неправильный пароль, попробуйте еще раз.
+Incorrect password.  Please try again. Enter Password: 	Неправильный пароль, попробуйте еще раз. Введите пароль: 
+Create a password to protect your Kindle.  If you forget your password, you can reset your Kindle, which will also remove all content to prevent other people from accessing it.	Создайте пароль, чтобы защитить ваш Kindle. Вы можете сбросить пароль сбросив настройки Kindle на заводские, но при этом, книги будут удалены.
+Enter New Password: 	Новый пароль: 
+Enter Password Hint: 	Подсказка к паролю: 
+Enter a phrase that can help you remember your password	Введите фразу, которая поможет Вам вспомнить пароль
+Your password must contain at least {0,number,integer} characters. Please try again.	Минимальная длина пароля {0,number,integer} знаков. Попробуйте снова.
+Join a Wi-Fi Network	Подключиться к Wi-Fi сети
+To register your Kindle, shop or browse for content in the Kindle Store, or view Web sites, you must first connect to a Wi-Fi network.~~~~You can always set up a Wi-Fi connection later through the Settings page.	Подключитесь сперва к Wi-Fi сети, чтобы зарегистрировать Kindle, покупать книги, просматривать веб страницы.~~~~Вы сможете позже установить Wi-Fi соединение, в меню Настроек.
+join a network	подключиться к сети
+remind me later	напомнить позже
+{0,number,integer} of {1,number,integer}	{0,number,integer} из {1,number,integer}
+611 Page	Страница 611
+711 Page	Страница 711
+The device does not have WiFi	В устройстве не найдено WiFi
+Yes(1)	Да(1)
+No(0)	Нет(0)
+411 Page	Страница 411
+(unknown)	(неизвестно)
+Set Device Name	Установить имя Kindle
+Deregister Your Kindle	Разрегистрировать Ваш Kindle
+Your Kindle will be deregistered from your Amazon account and many features will not work. After deregistering, you can register your device to another Amazon account.	Ваш Kindle будет разрегистрирован на Amazon и многие возможности перестанут работать, после разрегистрации, Вы сможете зарегистрировать Kindle на другое имя.
+Switching Wireless Providers	Переключить GSM оператора
+Your current provider is {0}.~~Your Kindle will lose its connection during this process. Manually switching wireless providers may take serveral minutes to complete, and your Kindle may not successfully reconnect to the Amazon Whispernet network. Do you wish to continue?	Ваш GSM оператор: {0}. Ваш Kindle потеряет связь с GSM оператором в процессе изменения оператора. Ручное переключение оператора может занять пару минут, и Kindle может не подключиться к Wispernet в итоге. Вы хотите продолжить?
+You are about to change the date on your Kindle by more than a day. An incorrect date may prevent your Kindle from working properly. Are you sure you want to proceed?	Вы изменили время более чем на один день. Неправильная дата может привести к некорректной работе Вашего Kindle. Продолжить?
+select dictionary	выбор словаря
+An Amazon account is required to register your Kindle. If you do not have an account, go to www.amazon.com/sign-in to create one. For UK customers, go to www.amazon.co.uk/sign-in.~~~~By registering your Kindle, you agree to the Kindle License Agreement and Terms of Use, which can be found in the Appendix of the Kindle User's Guide.~~~~Enter the e-mail address and password associated with your Amazon account. To enter "@" symbol, press the "SYM" key.	Для регистрации Kindle вам потребуется учетная запись Amazon. Если у Вас нет учетной записи, зайдите на www.amazon.com/sign-in и создайте ее.~~~~Регистрируясь, Вы соглашаетесь с Лицензией Kindle которая находится в приложении к Руководству пользователя.~~~~Введите свой e-mail адрес и пароль Вашей учетной записи Amazon. Для ввода символа '@' нажмите клавишу 'SYM'.
+Device Language	Язык интерфейса
+Set the language for your Kindle.	Установка языка интерфейса
+Dictionaries	Словари
+Select the default dictionaries for your Kindle.	Выберите основные словари
+Page Refresh	Обновление страницы
+Refresh the E Ink display with every page turn.	Обновлять экран при каждом перелистывании
+edit	изменить
+view	просмотр
+save	сохранить
+set	установить

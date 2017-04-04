@@ -1,0 +1,11 @@
+Applications	Программы
+Archived Items	Документы в Архиве
+Collections	Коллекции
+Periodicals: Back Issues	Периодика: Старые выпуски
+0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues	0#Показано старых выпусков: {0,number,integer}|1#Показано старых выпусков: {0,number,integer}|2#Показано старых выпусков: {0,number,integer}
+(none)	(нет)
+Blogs	Блоги
+Books	Книги
+0#Showing {0,number,integer} Books|1#Showing {0,number,integer} Book|2#Showing {0,number,integer} Books	0#Показано книг: {0,number,integer}|1#Показано книг: {0,number,integer}|2#Показано книг: {0,number,integer}
+Personal Docs	Документы
+0#Showing {0,number,integer} Personal Docs|1#Showing {0,number,integer} Personal Doc|2#Showing {0,number,integer} Personal Docs	0#Показано документов: {0,number,integer}|1#Показано документов: {0,number,integer}|2#Показано документов: {0,number,integer}

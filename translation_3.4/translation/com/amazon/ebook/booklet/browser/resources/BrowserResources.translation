@@ -1,0 +1,21 @@
+Another page with the same title is already bookmarked. Do you want to overwrite it?	У вас уже есть закладка с таким названием, желаете перезаписать?
+You have reached the limit of bookmarks you can create. Would you like to delete the oldest bookmark in order to save this one?	У Вас слишком много закладок. Можно удалить самые старые и добавить новую, продолжить?
+Your Kindle is unable to connect at this time. Please try again later.	Ваш Kindle не может подключится в данный момент. Пожалйста, попробуйте еще раз позже.
+Web Browser cannot download this kind of file. Only files with the extension .AZW, .PRC, .MOBI, or .TXT can be downloaded to your Kindle.	Web браузер не может скачать файл данного формата. Подходят файлы с расширениями: .AZW, .PRC, .MOBI, или .TXT
+Web Browser could not open this link because opening multiple windows is not supported.	Web браузер не может открыть эту ссылку, т.к. не поддерживается открытие нескольких окон одновременно.
+Web Browser is unable to establish a secure connection with this web site.	Web браузер не может установить безопасное подключение к этому сайту.
+Web Browser was restarted because it ran out of memory.	Web браузер был перезапущен, т.к. ему не хватило памяти.
+Your Kindle is unable to load the requested page.	Ваш Kindle не может загрузить запрашиваемую страницу.
+Wireless is turned off. Please turn your wireless on from the menu and try again.	Беспроводное подключение отключено. Пожалуйста, включите его из меню и попробуйте снова.
+Web Browser does not support file uploads.	Web браузер не поддерживает отправку файлов.
+Printing is not available with Web Browser.	Web браузер не поддерживает печать.
+You must first register your Kindle.	Для начала, Вы должны зарегистрировать Ваш Kindle.
+Registration Required	Требуется регистрация
+In order to browse using 3G wireless, you must first register your Kindle to your Amazon user account. Please go to Settings to register.	Для работы с 3G подключением, вы должны зарегистрироваться на сайте Amazon и ввести свои данные в настройках вашего Kindle.
+Download file	Загрузка файла
+Web Browser successfully downloaded {0}.	Web браузер успешно загрузил {0}.
+Web Browser was unable to download {0}. Please try again later.	Web браузер не может загрузить {0}. Попробуйте еще раз.
+Authentication Required	Требуется авторизация
+The site {0} at {1} requires a username and password.	Сайт {0} по адресу {1} требует ввода логина и пароля.
+Invalid Certificate	Неправильный сертификат
+Web Browser is unable to establish a secure connection to the website {0}. Do you still want to proceed?	Web браузер не может установить безопасное соединение с сайтом {0}. Желаете продолжить?
