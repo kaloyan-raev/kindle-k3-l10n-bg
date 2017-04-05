@@ -22,7 +22,3 @@ for model in ${KINDLE_MODELS} ; do
 	./kindletool create ota -d ${model} uninstall.sh update_${ARCH}_uninstall.bin
 done
 
-# Pack the updates
-rm -f ../${PKGNAME}_${PKGVER}.zip
-zip ../${PKGNAME}_${PKGVER}.zip *.bin
-rm -f *.bin
