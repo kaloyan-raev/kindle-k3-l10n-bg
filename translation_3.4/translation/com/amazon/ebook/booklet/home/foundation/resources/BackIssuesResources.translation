@@ -1,6 +1,6 @@
-Back Issues: {0}	Старые выпуски: {0}
-0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues	0#Показано старых выпусков {0,number,integer}|1#Показано старых выпусков {0,number,integer}|2#Показано старых выпусков {0,number,integer}
-By Most Recent First	По дате чтения
-By Title	По названию
-Most Recent First	Дата чтения
-Title	Название
+Back Issues: {0}	Стари броеве: {0}
+0#Showing {0,number,integer} Back Issues|1#Showing {0,number,integer} Back Issue|2#Showing {0,number,integer} Back Issues	0#Показани са {0,number,integer} стари броя|1#Показан е {0,number,integer} стар брой|2#Показани са {0,number,integer} стари броя
+By Most Recent First	По последно четени
+By Title	По заглавие
+Most Recent First	Първо последно четените
+Title	Заглавие

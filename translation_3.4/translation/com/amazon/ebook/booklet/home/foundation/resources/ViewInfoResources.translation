@@ -1,50 +1,50 @@
-Narrator: {0}	Рассказчик: {0}
+Narrator: {0}	Разказвач: {0}
 Date: {0}	Дата: {0}
-Length: {0}	Длина: {0}
-Unknown	Неизвестно
-Go to Last Page Read	Продолжить чтение
-Go to First Article	К первой статье
-Go to Beginning	Перейти к началу
-Go to Location...	Перейти к позиции
-Go to Page...	Перейти на страницу
-Go to Index	Открыть содержание
-Go to Front Page	На первую страницу
-Go to Sections & Articles	Открыть содержание
-Book Description	Описание книги
-Search This Book	Искать в этой книге
-Search This Document	Искать в этом документе
-Notes & Marks	Заметки и цитаты
-My Bookmarks	Мои закладки
-Remove from Device	Удалить с устройства
-Delete This Book	Удалить эту книгу
-Delete This File	Удалить этот файл
-Delete This Document	Удалить этот документ
-Buy This Book Now	Купить эту книгу
-Search This Sample	Искать в этом образце
-Delete This Sample	Удалить этот образец
-Search This Issue	Искать в этом выпуске
-Search This Blog	Искать в этом блоге
-Keep This Issue	Сохранить этот выпуск
-Do Not Keep This Issue	Не сохранять этот выпуск
-Delete This Issue	Удалить этот выпуск
-Delete This Blog	Удалить этот блог
-Resume Playing	Продолжить слушать
-Start from Beginning	Начать с начала
-Open	Открыть
+Length: {0}	Продължителност: {0}
+Unknown	неизвестна
+Go to Last Page Read	Към посл. проч. стр.
+Go to First Article	Към първата статия
+Go to Beginning	Към началото
+Go to Location...	Към позиция…
+Go to Page...	Към страница…
+Go to Index	Към индекса
+Go to Front Page	Към заглавната страница
+Go to Sections & Articles	Към разделите и статиите
+Book Description	Описание на книгата
+Search This Book	Търсене в книгата
+Search This Document	Търсене в документа
+Notes & Marks	Бележки
+My Bookmarks	Моите отметки
+Remove from Device	Премахване от устройството
+Delete This Book	Изтриване на книгата
+Delete This File	Изтриване на файла
+Delete This Document	Изтриване на документа
+Buy This Book Now	Купи книгата
+Search This Sample	Търсене в безплатната част
+Delete This Sample	Изтриване на безплатната част
+Search This Issue	Търсене в броя
+Search This Blog	Търсене в блога
+Keep This Issue	Запазване на броя
+Do Not Keep This Issue	Не запазвай този брой
+Delete This Issue	Изтриване на броя
+Delete This Blog	Изтриване на блога
+Resume Playing	Продължаване на слушането
+Start from Beginning	Започни отначало
+Open	Отваряне
 Description	Описание
-Support	Поддержка
-Get Latest Version	Скачать обновление
-Delete	Удалить
-Using {0,number,integer} bytes	Использованно {0,number,integer} байт
+Support	Поддръжка
+Get Latest Version	Обновяване
+Delete	Изтриване
+Using {0,number,integer} bytes	Използва {0,number,integer} байта
 Version {0}	Версия {0}
-Assigned Collections ({0})	Присвоено коллекций ({0})
-Add to Collection...	Добавить в коллекцию
-Delete Item	Удалить элемент
-Delete Collection	Удалить коллекцию
-This item will be permanently deleted. Would you like to continue?	Удалить элемент окончательно?
-This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Эта коллекция будет удалена, но ее содержимое останется на устройстве. Продолжить?
-This item and its settings will be permanently deleted.  Would you like to continue?	Этот элемент и его настройки будут удалены. Продолжить?
-0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 Элементов|1#1 Элемент|2#{0,number,integer} Элементов
-Open Collection	Открыть коллекцию
-Add/Remove Items	Добавить/Удалить элемент
-Rename Collection	Переименовать коллекцию
+Assigned Collections ({0})	Разпределени колекции ({0})
+Add to Collection...	Добавяне в колекция…
+Delete Item	Изтриване на артикула
+Delete Collection	Изтриване на колекцията
+This item will be permanently deleted. Would you like to continue?	Този артикул ще бъде изтрит безвъзвратно. Искате ли да продължите?
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Тази колекция ще бъде изтрита, но съдържанието ѝ ще остане непокътнато на Вашия Kindle. Искате ли да продължите?
+This item and its settings will be permanently deleted.  Would you like to continue?	Този артикул и настройките му ще бъдат изтрити безвъзвратно. Искате ли да продължите?
+0#0 Items|1#1 Item|2#{0,number,integer} Items	0#0 артикула|1#1 артикул|2#{0,number,integer} артикула
+Open Collection	Отваряне на колекцията
+Add/Remove Items	Добавяне/премахване на артикули
+Rename Collection	Преименуване на колекцията

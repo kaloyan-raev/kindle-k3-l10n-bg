@@ -1,3 +1,3 @@
-click to go to page {0,number,integer}	перейти к странице {0,number,integer}
-click to go to {0} titles	перейти к оглавлению {0}
-click to go to {0} authors	перейти к авторам {0}
+click to go to page {0,number,integer}	натиснете, за да преминете към страница {0,number,integer}
+click to go to {0} titles	натиснете, за да преминете към заглавията {0}
+click to go to {0} authors	натиснете, за да преминете към авторите {0}

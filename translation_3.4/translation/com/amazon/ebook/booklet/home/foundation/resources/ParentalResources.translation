@@ -1,17 +1,17 @@
-set	установить
-turn on	включить
-turn off	отключить
-save	сохранить
-When Parental Controls are enabled, Deregistration and Reset to Factory Defaults are disabled.~~~~When Kindle Store is locked, you can continue buying books on your computer and sending them to your Kindle.	Когда Запреты установлены, невозможно разрегистрировать Kindle или сбросить его настройки.~~~~Даже при запрещенном доступе к Магазину Вы можете купить книги с компьютера и отправить их на Ваш Kindle.
-Specify restrictions on your Kindle.	Укажите запреты для Вашего Kindle
-This Kindle is a managed device. Parental Controls are blocked.	Включены Запреты. Изменение настроек невозможно.
-Web Browser	Web браузер
-Kindle Store	Магазин
-Archived Items	Документы в Архиве
-Access to Experimental Web Browser	Запуск экспериментального браузера
-Access to Kindle Store	Доступ в Магазин
-Access to Archived Items	Доступ к документам в Архиве
-Set Parental Controls Password	Установить пароль на изменение Запретов
-Select save to change Parental Controls and restart your Kindle	Выберите сохранить для изменения списка Запретов и перезапуска Kindle
-Parental Controls have changed:	Запреты изменены:
-Parental Controls	Запреты
+set	настрой
+turn on	включи
+turn off	изключи
+save	запази
+When Parental Controls are enabled, Deregistration and Reset to Factory Defaults are disabled.~~~~When Kindle Store is locked, you can continue buying books on your computer and sending them to your Kindle.	Когато е включен режимът на родителски контрол, функциите за отрегистрация и за възстановяване на фабричните настройки са изключени.~~~~Когато е блокирана книжарницата на Amazon, може да купувате книги от Вашия компютър и после да ги прехвърляте на Вашия Kindle.
+Specify restrictions on your Kindle.	Посочете ограниченията за Вашия Kindle.
+This Kindle is a managed device.	Този Kindle е администрирано устройство. Родителският контрол е блокиран.
+Web Browser	Уеб браузър
+Kindle Store	Книжарница на Amazon'
+Archived Items	Архив
+Access to Experimental Web Browser	Достъп до експерименталния уеб браузър
+Access to Kindle Store	Достъп до книжарницата на Amazon
+Access to Archived Items	Достъп до архива
+Set Parental Controls Password	Посочете парола за родителския контрол
+Select save to change Parental Controls and restart your Kindle	Изберете „Запази“, за да запазите промените в родителския контрол и рестартирате Вашия Kindle
+Parental Controls have changed:	Родителският контрол се промени:
+Parental Controls	Родителски контрол

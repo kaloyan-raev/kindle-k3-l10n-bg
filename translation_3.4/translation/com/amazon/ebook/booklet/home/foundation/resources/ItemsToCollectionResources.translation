@@ -1,5 +1,5 @@
-0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Добавить/удалить: 0|1#Добавить/удалить: 1|2#Добавить/удалить:  {0,number,integer}
-add to this collection	добавить в коллекцию
-remove from this collection	удалить из коллекции
-Done	Готово
-Add All Items on This Page	Добавить все с этой страницы
+0#Add/Remove 0 Items|1#Add/Remove 1 Item|2#Add/Remove {0,number,integer} Items	0#Добавяне/премахване на 0 артикула|1#Добавяне/премахване на 1 артикул|2#Добавяне/премахване на {0,number,integer} артикула
+add to this collection	добави в колекцията
+remove from this collection	премахни от колекцията
+Done	затвори
+Add All Items on This Page	Добавяне на всичко от тази страница

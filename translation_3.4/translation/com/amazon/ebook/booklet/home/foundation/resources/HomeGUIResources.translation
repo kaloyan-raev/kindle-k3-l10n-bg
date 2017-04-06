@@ -1,9 +1,9 @@
-No Items	Нет элементов
-Click to add items to this collection	Нажмите для добавления в эту коллекцию
-Advertisement banner, click to view details	Реклама. Нажмите, чтобы узнать больше
-1#Page {1} of {0}	1#Страница {1} из {0}
-create	создать
-Start typing to create a new collection	Начните набирать текст для создания коллекции
-Collection Name Already Exists	Такая коллекция уже есть
-The collection name you entered already exists. Please enter a different name.	Коллекция с таким именем уже есть. Введите другое имя.
-save	сохранить
+No Items	Няма артикули
+Click to add items to this collection	Натиснете, за да добавите артикули в тази колекция
+Advertisement banner, click to view details	Реклама. Натиснете, за да видите повече.
+1#Page {1} of {0}	1#Страница {1} от {0}
+create	създай
+Start typing to create a new collection	Започнете да пишете, за да създадете нова колекция
+Collection Name Already Exists	Името се дублира
+The collection name you entered already exists. Please enter a different name.	Вече съществува колекция с това име. Моля, въведете различно име.
+save	запази

@@ -1,27 +1,27 @@
-0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}
-0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Книг в списке: {0,number,integer}|1#Книг в списке: {0,number,integer}|2#Книг в списке: {0,number,integer}
-0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Газет в списке: {0,number,integer}|1#Газет в списке: {0,number,integer}|2#Газет в списке: {0,number,integer}
-0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Документов в списке: {0,number,integer}|1#Документов в списке: {0,number,integer}|2#Документов в списке: {0,number,integer}
-All My Items	Все элементы
+0#Showing All {0,number,integer} Items|1#Showing All {0,number,integer} Item|2#Showing All {0,number,integer} Items	0#Показани са {0,number,integer} артикула|1#Показан е {0,number,integer} артикул|2#Показани са {0,number,integer} артикула
+0#Showing All {0,number,integer} Books|1#Showing All {0,number,integer} Book|2#Showing All {0,number,integer} Books	0#Показани са {0,number,integer} книги|1#Показана е {0,number,integer} книга|2#Показани са {0,number,integer} книги
+0#Showing All {0,number,integer} Periodicals|1#Showing All {0,number,integer} Periodical|2#Showing All {0,number,integer} Periodicals	0#Показани са {0,number,integer} периодични издания|1#Показано е {0,number,integer} периодично издание|2#Показани са {0,number,integer} периодични издания
+0#Showing All {0,number,integer} Personal Documents|1#Showing All {0,number,integer} Personal Document|2#Showing All {0,number,integer} Personal Documents	0#Показани са {0,number,integer} лични документа|1#Показан е {0,number,integer} лични документ|2#Показани са {0,number,integer} лични документа
+All My Items	Всички артикули
 Books	Книги
-Subscriptions	Подписки
-Personal Docs	Документы
-By Most Recent First	По дате чтения
-By Title	По названию
-By Author	По Автору
-Most Recent First	Дата чтения
-Title	Название
+Subscriptions	Абонаменти
+Personal Docs	Лични документи
+By Most Recent First	По последно четени
+By Title	По заглавие
+By Author	По автор
+Most Recent First	Първо последно четените
+Title	Заглавие
 Author	Автор
-Add/Remove Items	Добавить/Удалить
-Rename Collection	Переименовать коллекцию
-Delete Collection	Удалить коллекцию
-Create a New Collection	Создать коллекцию
-This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Эта коллекция будет удалена, но ее содержимое останется на устройстве. Продолжить?
-save	сохранить
-Enter Collection Name	Введите имя коллекции
-Edit Collection Name	Редактирование имени коллекции
-Collection Name Already Exists	Такая коллекция уже есть
-The collection name that you entered already exists. Please enter a different name.	Коллекция с таким именем уже есть, введите другое имя.
-{0} collection	коллекция {0}
-remove from collection	удалить из коллекции
-0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Показано элементов: {0,number,integer}|1#Показано элементов: {0,number,integer}|2#Показано элементов: {0,number,integer}
+Add/Remove Items	Добавяне/премахване на артикули
+Rename Collection	Преименуване на колекцията
+Delete Collection	Изтриване на колекцията
+Create a New Collection	Създаване на нова колекция
+This collection will be permanently deleted, but the contents will not be affected and will remain on your Kindle. Would you like to continue?	Тази колекция ще бъде изтрита, но съдържанието ѝ ще остане непокътнато на Вашия Kindle. Искате ли да продължите?
+save	запази
+Enter Collection Name	Въведете име на колекцията
+Edit Collection Name	Променете името на колекцията
+Collection Name Already Exists	Името се дублира
+The collection name that you entered already exists. Please enter a different name.	Вече съществува колекция с това име. Моля, въведете различно име.
+{0} collection	{0} колекция
+remove from collection	премахни от колекцията
+0#Showing {0,number,integer} Items|1#Showing {0,number,integer} Item|2#Showing {0,number,integer} Items	0#Показани са {0,number,integer} артикула|1#Показане е {0,number,integer} артикул|2#Показани са {0,number,integer} артикула
