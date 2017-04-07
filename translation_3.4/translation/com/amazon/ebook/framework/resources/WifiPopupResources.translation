@@ -1,48 +1,48 @@
-connect	подключиться
-forget	отключиться
-connecting...	подключение...
-enter other Wi-Fi network	Указать другую Wi-Fi сеть
-scanning...	поиск...
-rescan	обновить
-secure	защищенная
-open	открытая
-A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Wi-Fi подключение необходимо, для завершения этой задачи. Подключитесь и попробуйте еще раз.
-advanced	дополнительно
-Enter Wi-Fi password for {0}:	Введите пароль для сети {0}:
-hide	скрыть
-show	показывать
-Password:	Пароль:
-Unable to Connect to Wi-Fi Network~~~~	Невозможно подключиться к Wi-Fi сети~~~~
-Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Ваш Kindle не может подключится к Wi-Fi сети "{0}". 
-Would you like to try again or manually set up this network?	Хотите попробовать еще раз или настроить вручную?
-Would you like to enter the password again or manually set up this network?	Желаете ввести пароль еще раз или настроить сеть вручную?
-Page {0} of {1}	Страница {0} из {1}
-Enter other Wi-Fi network	Введите имя Wi-Fi сети
-Network name:	Имя сети:
-set up network	настройки сети
-enter password again	ввести пароль еще раз
-try again	еще раз
-Sign-in required	Аутентификация в сети
-The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	Эта Wi-Fi сеть требует указать регистрационные данные для доступа в Интернет.~~~~Открыть Веб-браузер для ввода имени и пароля?
-go to browser	открыть браузер
-The password you entered is incorrect or invalid.~~	Ваш пароль не подходит.~~
-There is no Wi-Fi Profile configured for this network.~~	Для этой сети нету профиля.~~
-Wi-Fi network connection failed.~~	Не удалось подключится к Wi-Fi сети.~~
-Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi недоступна сейчас. Если проблема останется, перезагрузите ваш Kindle.~~
-Local network connection failed.~~	Ошибка подключения к локальной сети.~~
-Internet connection failed.~~	Ошибка подключения к интернету.~~
-The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Тип безопасности который вы указали, не подходит к указанной Wi-Fi сети.~~
-The name of the Wi-Fi network is too long.~~	Слишком длинное название Wi-Fi сети.~~
-Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Неподдерживаемая Wi-Fi сеть~~~~Сети преприятия или точка-точка не поддерживаются Kindle. Попробуйте подключиться к другой сети.
-This Kindle is a managed device and cannot modify Wi-Fi settings. Please contact your system administrator if you have any questions.	На этом Kindle запрещены изменения настроек Wi-Fi. Обратитесь к Вашему системному администратору.
-Wi-Fi Networks: {0}	Wi-Fi сети: {0}
-WPS connection failed.~~	Настройка через WPS не удалась.~~
-WPS connection failed. Try entering the password again.~~	Настройка через WPS не удалась. Попробуйте ввести пароль снова.~~
-Invalid Configuration.~~	Ошибка в конфигурации.~~
-Access point rejected connection request. MAC filtering might be on.~~	отказано в подключении. Возможно, включена фильтрация MAC-адресов.~~
-Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Этот тип Wi-Fi сетей не совместим с Kindle. Подключитесь к другой сети. По вопросам подключения Kindle к Wi-Fi, обращайтесь: www.kindle.com/support~~
-The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Введенный пароль длиннее, чем разрешен в этой сети. Попробуйте ввести пароль снова. По вопросам подключения Kindle к Wi-Fi, обращайтесь: www.kindle.com/support~~
-The password you entered is missing one or more characters. Try entering the password again. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Введенный пароль короче, чем должен быть. Попробуйте ввести пароль снова. По вопросам подключения Kindle к Wi-Fi, обращайтесь: www.kindle.com/support~~
-The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Выбранный тип шифрования отличается от установленного в сети. По вопросам подключения Kindle к Wi-Fi, обращайтесь: www.kindle.com/support~~
-Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network. For information about supported wi-fi networks, go to www.kindle.com/support~~	Прямое подключение не поддерживается Kindle. Подключитесь к сети с точкой доступа. По вопросам подключения Kindle к Wi-Fi, обращайтесь: www.kindle.com/support~~
-You can also connect without entering a password. First, press the WPS button on your wireless router, and then select the WPS setup button above.	Вы можете подключиться без ввода пароля. Нажмите кнопку WPS на точке доступа, затем выберите пункт ''Настройка через WPS'' выше.
+connect	свържи се
+forget	забрави
+connecting...	свързване…
+enter other Wi-Fi network	въведете друга Wi-Fi мрежа
+scanning...	търсене…
+rescan	опресни
+secure	защитена
+open	отворена
+A Wi-Fi connection is required to complete this task. Connect to a Wi-Fi network or try again later.	Необходима е връзка с Wi-Fi мрежа, за да се завърши тази операция. Свържете се към Wi-Fi мрежа или опитайте отново по-късно.
+advanced	допълнителни
+Enter Wi-Fi password for {0}:	Въведете парола за мрежата „{0}“:
+hide	скрий
+show	покажи
+Password:	Парола:
+Unable to Connect to Wi-Fi Network~~~~	Неуспешно свързване с Wi-Fi мрежата~~~~
+Your Kindle is unable to connect to the Wi-Fi network "{0}". 	Вашият Kindle не може да се свърже с Wi-Fi мрежата „{0}“. '
+Would you like to try again or manually set up this network?	Искате ли да опитате отново или да настроите мрежата ръчно?
+Would you like to enter the password again or manually set up this network?	Искате ли да въведете паролата отново или да настроите мрежата ръчно?
+Page {0} of {1}	Страница {0} от {1}
+Enter other Wi-Fi network	Въведете друга Wi-Fi мрежа
+Network name:	Име на мрежата:
+set up network	настрой мрежата
+enter password again	въведи паролата отново
+try again	опитай отново
+Sign-in required	Изисква се удостоверяване
+The Wi-Fi network you are connecting to requires you to sign in before accessing the Internet.~~~~Do you wish to go to Web Browser to sign in?	За да имате достъп до Интернет, е необходимо да се идентифицирате в Wi-Fi мрежата.~~~~Желаете ли да превключите към уеб бразъра, за да се идентифицирате?
+go to browser	отиди в браузъра
+The password you entered is incorrect or invalid.~~	Въведена е грешна парола.~~
+There is no Wi-Fi Profile configured for this network.~~	Няма конфигуриран Wi-Fi профил за тази мрежа.~~
+Wi-Fi network connection failed.~~	Свързването към Wi-Fi мрежата е неуспешно.~~
+Wi-Fi is not available right now. If the problem persists, please restart your device.~~	Wi-Fi функцията не е налична в момента. Ако проблемът продължава, моля рестартирайте устройството.~~
+Local network connection failed.~~	Свързването към локалната мрежа е неуспешно.~~
+Internet connection failed.~~	Свързването към Интернет е неуспешно.~~
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to.~~	Въведеният тип на защита не съответства на типа на защита на Wi-Fi мрежата, към която се опитвате да се свържете.~~
+The name of the Wi-Fi network is too long.~~	Името на Wi-Fi мрежата е твърде дълго.~~
+Unsupported Wi-Fi network~~~~Enterprise or peer-to-peer Wi-Fi networks are not supported. Try connecting to another network.	Тази Wi-Fi мрежа не се поддържа.~~~~Не се поддържат Wi-Fi мрежи от тип точка-точка (peer-to-peer) или с бизнес ниво на защита. Опитайте да се свържете с друга мрежа.
+This Kindle is a managed device and cannot modify Wi-Fi settings. Please contact your system administrator if you have any questions.	Този Kindle е администрирано устройство и настройките на Wi-Fi не могат да се променят. Моля обърнете се към системния администратор, ако имате някакви въпроси.
+Wi-Fi Networks: {0}	Wi-Fi мрежи: {0}
+WPS connection failed.~~	Свързването чрез WPS е неуспешно.~~
+WPS connection failed. Try entering the password again.~~	Свързването чрез WPS е неуспешно. Моля, въведете паролата отново.~~
+Invalid Configuration.~~	Невалидна конфигурация.~~
+Access point rejected connection request. MAC filtering might be on.~~	Точката за достъп отказа заявката за свързване. Възможно е да е включено филтриране по MAC адрес.
+Enterprise Wi-Fi networks are not supported on Kindle. Try connecting to another network. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Kindle не поддържа Wi-Fi мрежи с бизнес ниво на защита. Опитайте да се свържете с друга мрежа. Ако изпитвате затруднения да свържете Вашия Kindle към Wi-Fi, може да се обърнете за помощ на www.kindle.com/support~~
+The password you entered is longer than allowed by the Wi-Fi network. Try entering the password again. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Въведената парола е по-дълга от разрешеното от Wi-Fi мрежата. Опитайте да въведете паролата отново. Ако изпитвате затруднения да свържете Вашия Kindle към Wi-Fi, може да се обърнете за помощ на www.kindle.com/support~~
+The password you entered is missing one or more characters. Try entering the password again. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Въведената парола е с недостатъчен брой символи. Опитайте да въведете паролата отново. Ако изпитвате затруднения да свържете Вашия Kindle към Wi-Fi, може да се обърнете за помощ на www.kindle.com/support~~
+The security type you entered does not match the security type of the Wi-Fi network you are trying to connect to. If you have issues connecting your Kindle to Wi-Fi, you can find help at www.kindle.com/support~~	Въведеният тип на защита не съответства на типа на защита на Wi-Fi мрежата, към която се опитвате да се свържете. Ако изпитвате затруднения да свържете Вашия Kindle към Wi-Fi, може да се обърнете за помощ на www.kindle.com/support~~
+Peer-to-peer Wi-Fi networks are not supported on Kindle. Try connecting to another network. For information about supported wi-fi networks, go to www.kindle.com/support~~	Kindle не поддържа Wi-Fi мрежи от тип точка-точка (peer-to-peer). Опитайте да се свържете към друга мрежа. За информация относно поддържаните Wi-Fi мрежи, обърнете се към www.kindle.com/support~~
+You can also connect without entering a password. First, press the WPS button on your wireless router, and then select the WPS setup button above.	Може да се свържете и без да въвеждате парола. Първо натиснете бутона WPS на Вашия безжичен рутер. След това натиснете бутона „използвай wps“.
