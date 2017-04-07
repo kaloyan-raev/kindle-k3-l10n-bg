@@ -1,3 +1,3 @@
-Your rating: 	Ваша оценка:
-{0,choice,1#Your rating: {0} star|2#Your rating: {0} stars}	{0,choice,1#Ваша оценка: {0} балл|2#Ваша оценка: {0}}
-{0,choice,1#{0} star|2#{0} stars}	{0,choice,1#{0} балл|2#{0}}
+Your rating: 	Вашата оценка: 
+{0,choice,1#Your rating: {0} star|2#Your rating: {0} stars}	0,choice,1#Вашата оценка: {0} звезда|2#Вашата оценка: {0} звезди}
+{0,choice,1#{0} star|2#{0} stars}	{0,choice,1#{0} звезда|2#{0} звезди}

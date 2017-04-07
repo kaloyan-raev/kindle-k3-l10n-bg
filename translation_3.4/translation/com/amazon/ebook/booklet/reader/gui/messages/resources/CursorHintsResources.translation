@@ -1,33 +1,33 @@
-Annotating is disabled	Аннотирование отключено
-Annotating is disabled for sample content	Аннотирование отключено для образцов
-Annotating is disabled for blogs	Аннотирование отключено для блогов
-Annotating is disabled - Memory is full	Аннотирование отключено - переполнена память
-Begin typing to create a note	Введите Вашу заметку
-Press {0} to create a note	Нажмите {0} чтобы создать заметку
-Begin typing to create a note or click to start a highlight	Введите заметку или нажмите [джойстик] чтобы выделить
-Press {0} for full definition, highlight, or note	Нажмите {0} для перехода к статье, выделения или создания заметки
-Press {0} for full definition	Нажмите {0} для перехода к статье
-Press {0} for highlight or note	Нажмите {0} для выделения или создания заметки
-Move cursor to create a highlight {0}	Двигайте курсор для начала выделения {0}
-Press {0} to end highlight	Нажмите {0} для завершения выделения
-Press {0} to end highlight, share or create note	Нажмите {0} для завершения выделения, публикации или создания заметки
-Click to end highlight or press Back to cancel	[Джойстик] - сохранить выделение, [Back] - отменить
-Click to end highlight, {0} to tweet/share, or Back to cancel	[Джойстик]-сохранить, {0}-расшарить, [Back]-отменить
-Begin typing to create a note or {0} to delete highlight	Введите заметку. Удалить выделение - {0}
-Press {0} for note or delete highlight	Нажмите {0} для создания заметки или сброса выделения
-Type to create note, {0} to delete highlight, {1} to share	Введите заметку. Удалить выделение-{0}, {1}-расшарить
-Press {0} for note, delete highlight, or share highlight	Нажмите {0} для создания заметки, сброса выделения или публикации
-Press {0} to go to, share or delete highlight	Нажмите {0} для перехода, публикации или сброса выделения
-Press {0} to go to or delete highlight	Нажмите {0} для перехода или сброса выделения
-Press {0} to go to or delete bookmark	Нажмите {0} для перехода или сброса закладки
-{0} delete   {1} share	{0} удалить   {1} поделиться
-{0} delete	{0} удалить
-Begin typing to create a note or click to follow the link	Введите заметку, либо перейдите по ссылке нажав [джойстик]
-Press {0} to follow the link	Нажмите {0} для перехода по ссылке
-Press {0} to follow the link or create note	Нажмите {0} для перехода по ссылке или создания заметки
-Press {0} to follow the link or delete note	Нажмите {0} для перехода по ссылке или удаления заметки
-Press {0} for full definition or follow the link	Нажмите {0} для перехода к статье или по ссылке
-Press {0} for full definition, follow the link or create note	Нажмите {0} для перехода к статье, по ссылке или создания заметки
-Press {0} for full definition, follow the link or delete note	Нажмите {0} для перехода к статье, по ссылке или удаления заметки
-Begin typing to create a note, or press {0} to zoom image	Введите заметку или нажмите {0} для увеличения
-Press {0} to go to highlight	Нажмите {0} для перехода к выделенному тексту
+Annotating is disabled	Коментарите са изключени
+Annotating is disabled for sample content	Коментарите са изключени за безплатното съдържание
+Annotating is disabled for blogs	Коментарите за изключени за блоговете
+Annotating is disabled - Memory is full	Коментарите са изключени - паметта е запълнена
+Begin typing to create a note	Започнете да пишете за нова бележка
+Press {0} to create a note	Натиснете {0} за нова бележка
+Begin typing to create a note or click to start a highlight	Започнете да пишете за нова бележка~~или натиснете, за ново подчертване
+Press {0} for full definition, highlight, or note	Натиснете {0} за пълната дефиниция,~~подчертаване или бележка
+Press {0} for full definition	Натиснете {0} за пълната дефиниция
+Press {0} for highlight or note	Натиснете {0} за подчертаване или бележка
+Move cursor to create a highlight {0}	Преместете курсора за подчертаване {0}
+Press {0} to end highlight	Натиснете {0} за край на подчертаването
+Press {0} to end highlight, share or create note	Натиснете {0} за край на подчертаването, за споделяне~~или за нова бележка
+Click to end highlight or press Back to cancel	Натиснете за край на подчертаването~~или натиснете „Назад“ за отмяна
+Click to end highlight, {0} to tweet/share, or Back to cancel	Натиснете за край на подчертаването,~~{0} за споделяне, или „Назад“ за отмяна
+Begin typing to create a note or {0} to delete highlight	Започнете да пишете за нова бележка~~или {0} за изтриване на подчертаването
+Press {0} for note or delete highlight	Натиснете {0} за нова бележка~~или за изтриване на подчертаването
+Type to create note, {0} to delete highlight, {1} to share	Пишете за нова бележка, {0} за изтриване~~на подчертаването, {1} за споделяне
+Press {0} for note, delete highlight, or share highlight	Натиснете {0} за нова бележка, изтриване~~или споделяне на подчертаването
+Press {0} to go to, share or delete highlight	Натиснете {0} за достигане, споделяне~~или изтриване на подчертаването
+Press {0} to go to or delete highlight	Натиснете {0} за достигане или~~изтриване на подчертаването
+Press {0} to go to or delete bookmark	Натиснете {0} за достигане или изтриване на отметката
+{0} delete   {1} share	{0} изтрий   {1} сподели
+{0} delete	{0} изтрий
+Begin typing to create a note or click to follow the link	Започнете да пишете за нова бележка~~или натиснете за преминаване към връзката
+Press {0} to follow the link	Натиснете {0} за преминаване към връзката
+Press {0} to follow the link or create note	Натиснете {0} за преминаване към връзката~~или за нова бележка
+Press {0} to follow the link or delete note	Натиснете {0} за преминаване към връзката~~или за изтриване на бележката
+Press {0} for full definition or follow the link	Натиснете {0} за пълната дефиниция~~или за преминаване към връзката
+Press {0} for full definition, follow the link or create note	Натиснете {0} за пълната дефиниция, за преминаване~~към връзката или за нова бележка
+Press {0} for full definition, follow the link or delete note	Натиснете {0} за пълната дефиниция, за преминаване~~към връзката или за изтриване на бележката
+Begin typing to create a note, or press {0} to zoom image	Започнете да пишете за нова бележка~~или натиснете {0} за мащабиране на изображението
+Press {0} to go to highlight	Натиснете {0} за достигане на подчертаването

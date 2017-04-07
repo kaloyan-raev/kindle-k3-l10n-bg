@@ -1,4 +1,4 @@
-finished {0}	прочитано: {0}
-finished {0} by {1}	прочитавших {0}: {1}
-finished {0} and gave it {2,choice,1#{2} star|2#{2} stars}	прочитано: {0}, оценка {2}
-finished {0} by {1} and gave it {2,choice,1#{2} star|2#{2} stars}	прочитавших {0}: {1}, оценка {2}
+finished {0}	прочетох „{0}“
+finished {0} by {1}	прочетох „{0}“ от {1}
+finished {0} and gave it {2,choice,1#{2} star|2#{2} stars}	прочетох „{0}“ и давам оценка от {2,choice,1#{2} звезда|2#{2} звезди}
+finished {0} by {1} and gave it {2,choice,1#{2} star|2#{2} stars}	прочетох „{0}“ от {1} и давам оценка от {2,choice,1#{2} звезда|2#{2} звезди}

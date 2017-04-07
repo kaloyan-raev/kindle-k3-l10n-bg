@@ -1,5 +1,5 @@
-Click to place the cursor within the table	Нажмите [джойстик] чтобы поместить курсор в таблицу
-{0} delete   {1} share   {2} edit	{0} удалить   {1} поделиться   {2} изменить
-{0} delete   {1} edit	{0} удалить   {1} изменить
-{0} delete	{0} удалить
-more {0}	еще {0}
+Click to place the cursor within the table	Натиснете, за да преместите курсора в таблицата
+{0} delete   {1} share   {2} edit	{0} изтрий   {1} сподели   {2} промени
+{0} delete   {1} edit	{0} изтрий   {1} промени
+{0} delete	{0} изтрий
+more {0}	още {0}
