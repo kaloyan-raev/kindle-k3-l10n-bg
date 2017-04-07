@@ -1,37 +1,37 @@
-Text-to-Speech	Проговаривание
-turn on	включить
-turn off	выключить
-play	пуск
+Text-to-Speech	Синтетичен говор
+turn on	включи
+turn off	изключи
+play	пусни
 pause	пауза
-Speech Rate	Темп
-slower	медленее
-default	по умолчанию
-faster	быстрее
-Speaking Voice	Голос
-female	женский
-male	мужской
-Typeface	Шрифт
-regular	обычный
-condensed	сжатый
-sans serif	без засечек
-Line Spacing	Межстрочное рас.
-small	маленькое
-medium	среднее
-large	большое
+Speech Rate	Темпо
+slower	по-бавно
+default	по подразбиране
+faster	по-бързо
+Speaking Voice	Глас
+female	женски
+male	мъжки
+Typeface	Начертание
+regular	обикновено
+condensed	сгъстено
+sans serif	sans serif
+Line Spacing	Междуредия
+small	малки
+medium	средни
+large	големи
 Contrast	Контраст
-lightest	-2
-lighter	-1
-darker	+1
-darkest	+2
-Words per Line	Слов в строке
-fewest	мало
-fewer	меньше
-Auto-Crop	Автоообрезание
-Justification	Выравнивание
-Left	Слева
-Full	По ширине
-Zoom	Увеличение
-actual size	исходный
-fit-to-page	на страницу
-fit-to-width	по ширине
-fit-to-screen	на экран
+lightest	най-светло
+lighter	по-светло
+darker	по-тъмно
+darkest	най-тъмно
+Words per Line	Думи на ред
+fewest	най-малко
+fewer	по-малко
+Auto-Crop	Автоматично отрязване
+Justification	Подравняване
+Left	Отляво
+Full	Двустранно
+Zoom	Мащаб
+actual size	фактически
+fit-to-page	по височина
+fit-to-width	по ширина
+fit-to-screen	по екрана
