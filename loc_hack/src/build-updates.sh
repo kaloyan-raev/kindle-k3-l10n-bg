@@ -16,7 +16,7 @@ for model in ${KINDLE_MODELS} ; do
 	ARCH=${PKGNAME}_${PKGVER}_${model}
 
 	# Build install update
-	./kindletool create ota -d ${model} install.sh bcel-5.2.jar K3Translator.jar loc-bind loc-init msp_prefs translation.jar ui_loc.tar.gz physkeyb.jar kindle.kbd russian.kbd russian_fonetic.kbd update_${ARCH}_install.bin
+	./kindletool create ota -d ${model} install.sh bcel-5.2.jar K3Translator.jar loc-bind loc-init msp_prefs translation.jar ui_loc.tar.gz physkeyb.jar kindle.kbd bulgarian.kbd update_${ARCH}_install.bin
 
 	# Build uninstall update
 	./kindletool create ota -d ${model} uninstall.sh update_${ARCH}_uninstall.bin

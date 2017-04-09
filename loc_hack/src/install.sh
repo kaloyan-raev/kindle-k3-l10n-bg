@@ -154,8 +154,7 @@ fi
 update_percent_complete 90
 logmsg "I" "update" "Copy to /mnt/us/keyboard"
 mv -f kindle.kbd /mnt/us/keyboard >> /mnt/us/keyboard/install.log 2>&1
-mv -f russian.kbd /mnt/us/keyboard >> /mnt/us/keyboard/install.log 2>&1
-mv -f russian_fonetic.kbd /mnt/us/keyboard >> /mnt/us/keyboard/install.log 2>&1
+mv -f bulgarian.kbd /mnt/us/keyboard >> /mnt/us/keyboard/install.log 2>&1
 
 logmsg "I" "update" "done"
 update_progressbar 100
