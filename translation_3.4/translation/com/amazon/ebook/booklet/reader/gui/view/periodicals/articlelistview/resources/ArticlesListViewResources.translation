@@ -1,8 +1,0 @@
-{0} {0,choice,0#Articles|1#Article|1<Articles}	{0} {0,choice,0#Статии|1#Статия|1<Статии}
-Close Articles List	Затвори списъка със статии
-View Sections & Articles	Виж разделите и статиите
-Page {0} of {1}	Страница {0} от {1}
-{0,choice,0#Article|0<Articles} {1} {0,choice,0#|0<- {2} }of {3}	{0,choice,0#Статия|0<Статии} {1} {0,choice,0#|0<- {2} }от {3}
-Item {0} of {1}	Артикул {0} от {1}
-Articles List	Списък със статии
-Articles List • {0}	Списък със статии • {0}

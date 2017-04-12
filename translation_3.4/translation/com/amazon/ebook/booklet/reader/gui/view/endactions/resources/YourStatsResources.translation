@@ -1,4 +1,0 @@
-Your Stats	Вашата статистика
-{0,choice,0#You have no highlights or notes|1#You have 1 note|2#You have {0} notes}	{0,choice,0#Нямате бележки|1#Имате една бележка|2#Имате {0} бележки}
-{0,choice,0#You have 1 highlight|1#You have 1 highlight and 1 note|2#You have 1 highlight and {0} notes}	{0,choice,0#Имате едно подчертаване|1#Имате едно подчертаване и една бележка|2#Имате едно подчертаване и {0} бележки}
-{0,choice,0#You have {1} highlights|1#You have {1} highlights and 1 note|2#You have {1} highlights and {0} notes}	{0,choice,0#Имате {1} подчертавания|1#Имате {1} подчертавания и една бележка|2#Имате {1} подчертавания и {0} бележки}

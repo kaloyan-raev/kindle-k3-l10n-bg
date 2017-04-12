@@ -1,7 +1,0 @@
-build/
-loc_hack/*.zip
-loc_hack/src/kindletool
-loc_hack/src/translation.jar
-translation_jar/
-translation*.jar
-*.bin
